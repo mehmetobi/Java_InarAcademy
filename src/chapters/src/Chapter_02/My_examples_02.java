@@ -3,7 +3,7 @@ package Chapter_02;
 import java.util.Scanner;
 
 public class My_examples_02 {
-	
+		 
 	public static void main(String[] args) {
 	
 	  
@@ -27,11 +27,12 @@ public class My_examples_02 {
 		
 	return x * y ;
 	
-		
-		
+	
 	}
 	
 
+	
+	
 	
 	
 	
