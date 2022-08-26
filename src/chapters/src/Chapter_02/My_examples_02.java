@@ -15,36 +15,15 @@ public class My_examples_02 {
 	int kısakenar = data_read.nextInt();
 	int alan = alan_hesabi( uzunkenar, kısakenar ) ;
 			
-	
-	
 	System.out.println("Uzun kenarı	"   + uzunkenar + "	kısa kenarı	" + kısakenar + "	olan dikdörtgenin alanı	" + alan + "	dır");
 	
-
-		
 	}
 	
 	public static int alan_hesabi(int x, int y ) {
 		
 	return x * y ;
 	
-	
 	}
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 	
 	public static void getuserinfo() {
 		
