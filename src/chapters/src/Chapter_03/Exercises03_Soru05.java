@@ -2,7 +2,7 @@ package Chapter_03;
 
 import java.util.Scanner;
 
-public class Exercises03_Soru5 {
+public class Exercises03_Soru05 {
 	
 	public static void main(String args[]) {
         solution();

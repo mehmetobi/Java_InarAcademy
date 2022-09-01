@@ -1,6 +1,6 @@
 package Chapter_03;
 import java.util.concurrent.ThreadLocalRandom;
-public class Exercises03_Soru4 {
+public class Exercises03_Soru04 {
 	
 		
 	public static void main(String args[]) {
